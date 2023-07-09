@@ -1,0 +1,7 @@
+Spiderman,Marvel INC,30,10
+Formal Suit,Ralph Lauren,50,20
+Black Suit,BURBERRY,18,10
+Joker Set,Farrer & Co,50,50
+Valir Nun,GUCCI INC,20,20
+Ghost Suit,BURBERRY,30,30
+White Suit,BURBERRY,30,22
